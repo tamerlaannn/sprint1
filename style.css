@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    font-family: "Segoe UI";
+}
+.header{
+    display: flex;
+    background-color: #63101c;
+    max-width: 100%;
+    margin: auto;
+    padding: 10px 50px;
+}
+.bitlab_news{
+    font-size: 20px;
+    color: white;
+}
+.textInHeader{
+    width: 50%;
+}
+.text2InHeader{
+    width: 50%;
+    padding: 20px 10px;
+    text-align: right;
+    word-spacing: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: grey;
+}
+a:active{
+    color: black;
+}
+h3{
+    text-align: center;
+}
+.khabib{
+    display: flex;
+    margin: 2%;
+    padding: 5% 2%;
+    background-color: #9ac5c3;
+}
+.textInkhabib{
+    margin: 2% 5%;
+}
+.latest_news{
+    display: flex;
+    margin: 2%;
+}
+.new1{
+    border: 1px solid #989595;
+    width: 21%;
+    padding: 0 0 20px 0;
+    margin: 0 32px;
+}
+.news1{
+    max-width: 100%;
+    padding: 0 10px;
+}
+.btn1{
+    background-color: #63101c;
+    max-width: 45%;
+    margin: 10px;
+    padding: 5px;
+}
